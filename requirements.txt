@@ -1,0 +1,17 @@
+# Data processing
+pandas
+numpy
+
+# Machine learning and model evaluation
+scikit-learn
+imbalanced-learn   # For handling class imbalance with SMOTE
+
+# Model serialization
+joblib
+
+# API framework
+flask
+
+# Visualization (optional, if using Jupyter notebooks or feature importance plots)
+matplotlib
+seaborn
